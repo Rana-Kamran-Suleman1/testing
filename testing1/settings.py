@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-l3$cvsa*f#tw39q-z%%z0iu^mseg%i*$r$ecegz#@d&mjc@5ga
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost','git.heroku.com/kamran881.git','kamran881.herokuapp.com']
 
 
 INSTALLED_APPS = [
